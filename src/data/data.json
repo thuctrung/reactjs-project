@@ -1,0 +1,45 @@
+{
+    "category":
+    [
+        {
+            "id":1,
+            "name":"TONER"
+        },
+        {
+            "id":2,
+            "name":"CLEANSER"
+        },
+        {
+            "id":2,
+            "name":"LIP"
+        },
+        {
+            "id":2,
+            "name":"CREAM LINER"
+        },
+        {
+            "id":2,
+            "name":"MAKE-UP REMOVER"
+        },
+        {
+            "id":2,
+            "name":"MOISTURIZER"
+        },
+        {
+            "id":2,
+            "name":"SUNSCREEN"
+        },
+        {
+            "id":2,
+            "name":"CREAM FOR BACKGROUND"
+        },
+        {
+            "id":2,
+            "name":"CHALK COVERING"
+        },
+        {
+            "id":2,
+            "name":"MASCARA"
+        }
+    ]
+}
